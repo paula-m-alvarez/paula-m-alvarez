@@ -13,7 +13,7 @@ const paula = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Node, Python, jQuery],
   tools: [Jest, Docker],
-  techCommunities: { frontend-cafe, ekoparty},
+  techCommunities: [ frontend-cafe, ekoparty ],
   love: "cats"
 }
 ```
