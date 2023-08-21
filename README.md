@@ -11,10 +11,9 @@
 ```javascript
 const paula = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Node, Python, jQuery],
+  code: [Javascript, Typescript, HTML, CSS, Node],
   tools: [Jest, Docker],
-  techCommunities: [ frontend-cafe, ekoparty ],
-  love: "cats"
+  love: "cats, videogames"
 }
 ```
 
