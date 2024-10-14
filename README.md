@@ -1,22 +1,40 @@
-<h2> Hi, I'm Paula Alvarez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/QBpV6pEOjegG2nQ23B/giphy.gif" width="230">
-<p><em>Software Enginner <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="30"></br> Backend Developer at Avature<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="left">Hello there! My name is Paula  :)</h1>
 
-[![Linkedin: Paula Alvarez](https://img.shields.io/badge/-PaulaAlvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-maria-alvarez/)](https://www.linkedin.com/in/paula-maria-alvarez/)
+###
 
+<p align="left">I'm from Buenos Aires, Argentina. I currently work as a backend developer at Avature and I'm studying to become a Systems Analyst at ORT. I'm passionate about technology and constantly looking to expand my knowledge. To contribute to the community, I also share content about technology and programming on my LinkedIn and Twitter accounts.</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###
 
-```javascript
-const paula = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Node],
-  tools: [Jest, Docker],
-  love: "cats, videogames"
-}
-```
+<div align="left">
+  <a href="nkedin.com/in/paula-maria-alvarez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/pauliidev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+###
 
----
+<img src="https://raw.githubusercontent.com/paula-m-alvarez/paula-m-alvarez/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+</div>
+
+###
